@@ -2,9 +2,6 @@ package org.example;
 
 import com.one.coiner.coinerInterface.Menu;
 
-public class Main {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
-        Menu menu = new Menu();
-    }
-}
+
