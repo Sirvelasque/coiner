@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Sirvelasque/coiner/assets/82236725/df75fc2b-e658-471b-a4a2-71b5802134d7)
 
-## Intruction
+## Introduction
 
 > Coiner is build to give you a friendly and easy to use app where you can get the exchanged value for the amount of money you need to know about
 
